@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Bạn có thể hiểu chút về tôi đấy
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Xin phép gọi tôi là Kaze Nguyễn. Tôi chỉ có một số thứ sau thôi:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Gia đình là món quà giá trị nhất mà tôi có
+- Tôi say mê máy tính và các trò chơi điện tử
+- Thể thao ư? Tất nhiên, là có rồi. Esport này :D Tôi đùa đấy, tôi yêu bóng đá và một vài trò vui khác nữa.
+- Nhiều thứ nữa, khi vui tôi sẽ thêm vào nhé <3
 
 What else do you need?
 
-### My story
+### Câu truyện của tôi
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Làm ơn đi, tôi không muốn kể ở đây đâu :D. Tôi sẽ không phiền nếu bạn gửi mail, tin nhắn hay cái gì đó đại loại vậy.
