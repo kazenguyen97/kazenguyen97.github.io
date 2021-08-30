@@ -17,7 +17,10 @@ Microsoft đã tích cực theo dõi một chiến dịch lừa đảo thông ti
 Những kẻ tấn công có thể lạm dụng chuyển hướng mở để liên kết đến một URL trong miền đáng tin cậy và nhúng URL độc hại cuối cùng làm tham số.Việc lạm dụng như vậy có thể ngăn người dùng và các giải pháp bảo mật nhanh chóng nhận ra mục đích xấu có thể xảy ra. Ví dụ: người dùng được đào tạo về bảo mật sẽ di chuột trên các liên kết và kiểm tra các url hoặc phần mềm độc hại trong email và nhận thấy đây là miền mà họ tin tưởng và do đó nhấp vào miền đó.
 
 ![Chuỗi tấn công cho chiến dịch lừa đảo](/assets/img/2021/08/30-microsoft-warns-of-phishing/pic-1.png){: .mx-auto.d-block :}
-*Hình 1. Chuỗi tấn công của chiến dịch*
+||
+|:--:|
+| *Hình 1. Chuỗi tấn công của chiến dịch* |
+
 
 ### Cách phòng/chống
 
@@ -147,6 +150,6 @@ Cung cấp danh sách các chỉ số thỏa hiệp để tăng cường bảo m
 
 ### Link
 
-{: .box-warning}
+{: .box-info}
 [Widespread credential phishing campaign abuses open redirector links](https://www.microsoft.com/security/blog/2021/08/26/widespread-credential-phishing-campaign-abuses-open-redirector-links/)
 
