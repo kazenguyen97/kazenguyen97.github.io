@@ -4,14 +4,12 @@ title: About me
 subtitle: Bạn có thể hiểu chút về tôi đấy
 ---
 
-Xin phép gọi tôi là Kaze Nguyễn. Tôi chỉ có một số thứ sau thôi:
+Hãy gọi tôi là Kaze. Tôi chỉ có một số thứ sau thôi:
 
 - Gia đình là món quà giá trị nhất mà tôi có
 - Tôi say mê máy tính và các trò chơi điện tử
 - Thể thao ư? Tất nhiên là có rồi. Esport này :D Tôi đùa đấy, tôi yêu bóng đá và một vài trò vui khác nữa.
 - Nhiều thứ nữa, khi vui tôi sẽ thêm vào nhé <3
-
-What else do you need?
 
 ### Câu truyện của tôi
 
