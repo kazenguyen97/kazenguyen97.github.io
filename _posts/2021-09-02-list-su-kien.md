@@ -3,9 +3,9 @@ layout: post
 title: Gọi Ta Đại Chưởng Quỹ - Danh sách sự kiện 
 gh-repo: kazenguyen97/kazenguyen97.github.io
 gh-badge: [star, follow]
-thumbnail-img: \assets\img\2021\09\02-danh-sach-su-kien-dua-top-ta-la-dai-chuong-quy\thumbnail.jpg
-share-img: \assets\img\2021\09\02-danh-sach-su-kien-dua-top-ta-la-dai-chuong-quy\share-img.jpg
-cover-img: \assets\img\2021\09\02-danh-sach-su-kien-dua-top-ta-la-dai-chuong-quy\share-img.jpg
+thumbnail-img: /assets/img/2021/09/02-danh-sach-su-kien-dua-top-ta-la-dai-chuong-quy/thumbnail.jpg
+share-img: /assets/img/2021/09/02-danh-sach-su-kien-dua-top-ta-la-dai-chuong-quy/share-img.jpg
+cover-img: /assets/img/2021/09/02-danh-sach-su-kien-dua-top-ta-la-dai-chuong-quy/share-img.jpg
 tags: [Game, Info, GTLDCQ, Event]
 comments: true
 ---
