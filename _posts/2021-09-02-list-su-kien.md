@@ -1,5 +1,17 @@
 ---
 layout: post
+title: Chiến dịch lừa đảo lạm dụng các liên kết chuyển hướng
+# subtitle: Microsoft đang cảnh báo về một chiến dịch lừa đảo thông tin đăng nhập rộng rãi sử dụng các liên kết chuyển hướng mở trong liên lạc qua email
+gh-repo: kazenguyen97/kazenguyen97.github.io
+gh-badge: [star, follow]
+thumbnail-img: /assets/img/2021/08/30-microsoft-warns-of-phishing/phishing.jpg
+share-img: /assets/img/2021/08/30-microsoft-warns-of-phishing/phishing.jpg
+tags: [CTI, Microsoft, Feed]
+comments: true
+---
+
+<!-- ---
+layout: post
 title: [GọiTaĐạiChưởngQuỹ] Danh sách sự kiện 
 gh-repo: kazenguyen97/kazenguyen97.github.io
 gh-badge: [star, follow]
@@ -8,7 +20,7 @@ share-img: \assets\img\2021\09\02-danh-sach-su-kien-dua-top-ta-la-dai-chuong-quy
 cover-img: \assets\img\2021\09\02-danh-sach-su-kien-dua-top-ta-la-dai-chuong-quy\share-img.jpg
 tags: [Game, Info, GTLDCQ, Event]
 comments: true
----
+--- -->
 
 Tổng hợp 14 sự kiện có trong game Gọi Ta là Đại Chưởng Quỷ
 
