@@ -8,6 +8,8 @@ tags: [Game,Info,GTLDCQ,Event]
 comments: true
 ---
 
+Tổng hợp 14 sự kiện có trong game Gọi Ta là Đại Chưởng Quỷ
+
 {: .box-warning}
 **Lưu ý:** Thông tin này được mình thu thập có thể không chính xác và hoàn chỉnh 100%, mục đích là cung cấp thêm thông tin cho mọi người. Nếu có sai sót thì mình sẽ chỉnh sửa lại nhé.
 
