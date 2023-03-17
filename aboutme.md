@@ -4,38 +4,27 @@ title: About me
 subtitle: Bạn có thể hiểu chút về tôi đấy
 ---
 
-Johnny Coder
+Nguyễn Trường Hậu
 ============
 
--------------------     ----------------------------
-1 MyAddress                        email@example.com
-MyTown 1000                          @twitter_handle
-MyCountry                           1800 my-phone-nr
--------------------     ----------------------------
+| Country  | HCM City, Việt Nam  |
+| Twitter  | @kazenguyen11       |
+| Facebook | @TruongHauNg        |
+| Language | Vietnamese, English |
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
-
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+2015-2019:   
+    **Security, Computer Science**; FPT Univesity (GPA: 7.9 - Good)
+    *Thesis title: Mobile Forensic*
 
 Experience
-----------
+---------
 
 **Your Most Recent Work Experience:**
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Security Architech, DevSecOps, ISO 27001
 
 * First item
 
