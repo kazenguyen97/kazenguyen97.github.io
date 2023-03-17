@@ -4,8 +4,8 @@ title: Chiến dịch lừa đảo lạm dụng các liên kết chuyển hướ
 # subtitle: Microsoft đang cảnh báo về một chiến dịch lừa đảo thông tin đăng nhập rộng rãi sử dụng các liên kết chuyển hướng mở trong liên lạc qua email
 gh-repo: kazenguyen97/kazenguyen97.github.io
 gh-badge: [star, follow]
-thumbnail-img: /assets/img/2021/08/30-microsoft-warns-of-phishing/phishing.jpg
-share-img: /assets/img/2021/08/30-microsoft-warns-of-phishing/phishing.jpg
+thumbnail-img: /posts/30-microsoft-warns-of-phishing/phishing.jpg
+share-img: /posts/30-microsoft-warns-of-phishing/phishing.jpg
 tags: [CTI, Microsoft, Feed]
 comments: true
 ---
@@ -16,7 +16,7 @@ Microsoft đã tích cực theo dõi một chiến dịch lừa đảo thông ti
 
 Những kẻ tấn công có thể lạm dụng chuyển hướng mở để liên kết đến một URL trong miền đáng tin cậy và nhúng URL độc hại cuối cùng làm tham số.Việc lạm dụng như vậy có thể ngăn người dùng và các giải pháp bảo mật nhanh chóng nhận ra mục đích xấu có thể xảy ra. Ví dụ: người dùng được đào tạo về bảo mật sẽ di chuột trên các liên kết và kiểm tra các url hoặc phần mềm độc hại trong email và nhận thấy đây là miền mà họ tin tưởng và do đó nhấp vào miền đó.
 
-![Chuỗi tấn công cho chiến dịch lừa đảo](/assets/img/2021/08/30-microsoft-warns-of-phishing/pic-1.png){: .mx-auto.d-block :}
+![Chuỗi tấn công cho chiến dịch lừa đảo](/posts/30-microsoft-warns-of-phishing/pic-1.png){: .mx-auto.d-block :}
 ||
 |:--:|
 | *Hình 1. Chuỗi tấn công của chiến dịch* |
